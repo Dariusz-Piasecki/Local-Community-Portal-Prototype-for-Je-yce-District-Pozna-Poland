@@ -18,7 +18,7 @@
 
 ## 🎓 Certificate
 
-**[📜 UX Design Course Completion Certificate](https://drive.google.com/file/d/1-0wfMxJvJTw_wPVSy9vWiMFosz7Nj3r4/view)**
+**[📜  UX Design Course Completion Certificate](https://drive.google.com/file/d/1-0wfMxJvJTw_wPVSy9vWiMFosz7Nj3r4/view)**
 
 ---
 
