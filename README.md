@@ -277,7 +277,7 @@ Mutual assistance announcement system:
 
 **Dariusz Piasecki**  
 📧 Email: d.piasecki@piasecki photos.com  
-🔗 LinkedIn: [linkedin.com/in/piaseckiphotos](https://linkedin.com/in/piaseckiphotos)  
+🔗 LinkedIn: [linkedin.com/in/dariusz-piasecki](https://linkedin.com/in/dariusz-piasecki)  
 🐙 GitHub: [github.com/Dariusz-Piasecki](https://github.com/Dariusz-Piasecki)  
 🌐 Portfolio: [piaseckiphotos.com](https://piaseckiphotos.com)
 
