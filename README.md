@@ -28,7 +28,7 @@
   <tr>
     <td width="50%">
       <h3>Homepage - Hero Section</h3>
-      <img src="screenshots/Jeżyce_District_03.png" alt="Homepage Hero" width="100%">
+      <img src="Jeżyce_District_03.png" alt="Homepage Hero" width="100%">
       <p><i>Landing page with hero image of Poznań's Old Town, weather widget, and main navigation to all 4 portal sections</i></p>
     </td>
     <td width="50%">
