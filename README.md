@@ -22,6 +22,49 @@
 
 ---
 
+## 📸 Project Screenshots
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Homepage - Hero Section</h3>
+      <img src="screenshots/Jeżyce_District_03.png" alt="Homepage Hero" width="100%">
+      <p><i>Landing page with hero image of Poznań's Old Town, weather widget, and main navigation to all 4 portal sections</i></p>
+    </td>
+    <td width="50%">
+      <h3>Homepage - Sections Overview</h3>
+      <img src="screenshots/Jeżyce_District_04.png" alt="Homepage Sections" width="100%">
+      <p><i>Scrolled view showing preview of all portal sections: Informator, Wydarzenia, Marketplace, and Neighbor Help</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Bulletin - Article Detail</h3>
+      <img src="screenshots/Jeżyce_District_01.png" alt="Bulletin Detail" width="100%">
+      <p><i>Municipal announcement article about water shutdowns with navigation and article metadata</i></p>
+    </td>
+    <td>
+      <h3>Marketplace - Browse & Categories</h3>
+      <img src="screenshots/Jeżyce_District_05.png" alt="Marketplace" width="100%">
+      <p><i>Marketplace landing page with category filters (cars, furniture, electronics, clothing) and product listings grid</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Neighbor Help - Request & Offer Board</h3>
+      <img src="screenshots/Jeżyce_District_02.png" alt="Neighbor Help" width="100%">
+      <p><i>Community assistance board split into "Need Help" and "Offer Help" sections for shopping, pet care, and services</i></p>
+    </td>
+    <td>
+      <h3>User Authentication - Login Modal</h3>
+      <img src="screenshots/Jeżyce_District_06.png" alt="Login" width="100%">
+      <p><i>Login overlay with email/password authentication and social login options (Facebook, Google)</i></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🎯 Project Goal
 
 The project aimed to **create a district portal prototype** that would:
