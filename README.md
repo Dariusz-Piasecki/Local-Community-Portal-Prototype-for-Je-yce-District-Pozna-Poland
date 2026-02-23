@@ -10,7 +10,7 @@
 
 ## 🔗 Interactive Prototype
 
-### **[👉 Open Figma Prototype](https://www.figma.com/proto/IWlAlOvqULVqyZmkbOU28Q/Je%C5%BCyce-Group_project_of_a_portal_for_the_local_community_of_the_Je%C5%BCyce_district_in_the_city_of_Pozna?node-id=26-264&t=mQZtyNfz7HYRIS4Z-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=26%3A264)**
+## **[👉 Open Figma Prototype](https://www.figma.com/proto/IWlAlOvqULVqyZmkbOU28Q/Je%C5%BCyce-Group_project_of_a_portal_for_the_local_community_of_the_Je%C5%BCyce_district_in_the_city_of_Pozna?node-id=26-264&t=mQZtyNfz7HYRIS4Z-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=26%3A264)**
 
 **Click to explore the working prototype of Jeżyce Portal →**
 
